@@ -21,7 +21,7 @@
 ##
   
 <div> 
-  <a href = "mailto:pedrovicente@poli.ufrj.br"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pedrovicente.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-vicente-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://codepen.io/pedrovicentesantos" target="_blank"><img src="https://img.shields.io/badge/-CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
 </div>
